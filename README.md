@@ -5,7 +5,7 @@ A aplicação será um portal utilizando Angular para a exibição de notícias 
 O projeto deverá ser publicado em um repositório público no github.
 
 **Obrigatório**:
-	*Consumir a api do NEW YORK TIMES
+	* : Consumir a api do NEW YORK TIMES
 	*Obter as notícias sobre as categorias tecnologia e ciencias
 	*Ao clicar na notícia deve exibir um modal contendo título, url e uma breve descrição da noticia
 	*Para a criação do visual, podem ser usados frameworks modernos como o material e o bootstrap.

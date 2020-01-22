@@ -19,5 +19,5 @@ O projeto deverá ser publicado em um repositório público no github.
   * Demonstração de conhecimento da pirâmide de testes (Pode ser uma descrição no README).
 
 * **Informações Adicionais**:
- * Api do The New York Times: https://developer.nytimes.com
- * A api usada será a de Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
+  * Api do The New York Times: https://developer.nytimes.com
+  * A api usada será a de Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview

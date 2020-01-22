@@ -17,3 +17,7 @@ O projeto deverá ser publicado em um repositório público no github.
   * O uso da imagem das notícias que vem do Json é opcional, mas caso colocado deve ser analisado para que não impacte a usabilidade.
   * A aplicação conter testes unitários (preferencialmente TDD).
   * Demonstração de conhecimento da pirâmide de testes (Pode ser uma descrição no README).
+
+* **Informações Adicionais**:
+ * Api do The New York Times: https://developer.nytimes.com
+ * A api usada será a de Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
